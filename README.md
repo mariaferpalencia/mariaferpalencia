@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mariaferpalencia
+- 👀 I’m interested in getting experience about web development 
+- 🌱 I’m currently learning web development full stack 
+- 💞️ I’m looking to collaborate on projects or job for new people in this area.
+- 📫 How to reach me: mariaferpalencia2000@gmail.com 
